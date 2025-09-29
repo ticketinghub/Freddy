@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import fenv_h
 
 private struct Literal {
     static let BACKSLASH     = UInt8(ascii: "\\")
